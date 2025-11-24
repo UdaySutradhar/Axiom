@@ -69,3 +69,5 @@ Implemented a simulated loading delay (500ms) with a basic placeholder effect (i
 No Layout Shifts (CLS)
 
 Fixed heights and pre-defined container sizes are used in complex areas like TokenCard (84px height) to ensure stable element placement.
+
+vercel link: https://axiom-ashy.vercel.app/
